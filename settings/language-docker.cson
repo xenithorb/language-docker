@@ -5,3 +5,7 @@
 '.source.dockerignore':
   'editor':
     'commentStart': '# '
+
+'.source.docker-compose':
+  'editor':
+    'commentStart': '# '
